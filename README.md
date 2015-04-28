@@ -1,6 +1,13 @@
 # About
 A collection of thoughts on how science communication might (or should) look like in 2030. They arise from a meeting on the matter in spring 2015, in the preparation for which views were thought on how the world might then look like for specific groups of stakeholders, namely for researchers, research performing organisations/ universities, research funding organisation, publishers.
 
+# Long-term vision for research
+
+* What would science look like if it were invented today? (from 2009)
+  * [Part 1](http://ways.org/en/blogs/2009/jun/29/what_would_science_look_like_if_it_were_invented_today)
+  * [Part 2](http://ways.org/en/blogs/2009/sep/29/what_would_science_look_like_if_it_were_invented_today_part_ii_knowledge_structuring)
+* Video: [Open research](https://www.youtube.com/watch?v=LwW1-X3glak)
+
 # General remarks
 
 * These four stakeholder groups are already not representative of the relevant communities; perhaps much less so in 2030.
@@ -90,8 +97,3 @@ than just snapshots of outputs
 * favour post-publication peer review instead of pre-publication peer
 review, and public over non-public peer review
 
-## See also
-* What would science look like if it were invented today? (from 2009)
-  * [Part 1](http://ways.org/en/blogs/2009/jun/29/what_would_science_look_like_if_it_were_invented_today)
-  * [Part 2](http://ways.org/en/blogs/2009/sep/29/what_would_science_look_like_if_it_were_invented_today_part_ii_knowledge_structuring)
-* Video: [Open research](https://www.youtube.com/watch?v=LwW1-X3glak)
