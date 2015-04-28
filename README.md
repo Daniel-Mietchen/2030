@@ -1,7 +1,7 @@
-# 2030
-A collection of thoughts on how science communication might (or should) look like in 2030 for researchers, research performing organisations and universities, research funding organisation, publishers and others.
+# About
+A collection of thoughts on how science communication might (or should) look like in 2030. They arise from a meeting on the matter, in the preparation for which views were thought on how the world mike then look like for researchers, research performing organisations/ universities, research funding organisation, publishers.
 
-# General remarks:
+# General remarks
 
 * These four stakeholders are already not representative of the relevant communities; perhaps much less so in 2030.
 
@@ -27,10 +27,9 @@ more profound in the long-term e.g. [M1313](https://www.whitehouse.gov/sites/def
 published, thereby also fostering post-publication peer review.
 
 
-# specific notes on individual stakeholder groups:
+# Specific notes on individual stakeholder groups
 
-
-## researchers
+## Researchers
 
 * research workflows will be more digital and shared to a much greater extent
 
@@ -50,8 +49,7 @@ and of collaboration more generally, including more instances of
 "someone else solved my problem while I was asleep"
 
 
-
-## research performing organisation/university,
+## Research performing organisation/ university,
 
 * need to redefine identity in light of web-based workflows,
 digitized content, remote work et al., in conjunction with related
@@ -62,7 +60,7 @@ various research outputs way beyond classical papers, including
 contributions to open-science/ citizen science projects by others
 
 
-## research funding organisation
+## Research funding organisation
 
 * increasing demands of openness on the part of funded researchers,
 projects, institutions
@@ -79,6 +77,7 @@ research institutions above
 
 * (wishful thinking): sustainable funding modes for researchers,
 infrastructure, communities
+
 
 ## publishers
 
