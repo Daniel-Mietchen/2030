@@ -56,7 +56,7 @@ and of collaboration more generally, including more instances of
 "someone else solved my problem while I was asleep"
 
 
-## Research performing organisation/ university,
+## Research performing organisation/ university
 
 * need to redefine identity in light of web-based workflows,
 digitized content, remote work et al., in conjunction with related
