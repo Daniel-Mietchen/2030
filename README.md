@@ -1,9 +1,9 @@
 # About
-A collection of thoughts on how science communication might (or should) look like in 2030. They arise from a meeting on the matter, in the preparation for which views were thought on how the world mike then look like for researchers, research performing organisations/ universities, research funding organisation, publishers.
+A collection of thoughts on how science communication might (or should) look like in 2030. They arise from a meeting on the matter in spring 2015, in the preparation for which views were thought on how the world might then look like for specific groups of stakeholders, namely for researchers, research performing organisations/ universities, research funding organisation, publishers.
 
 # General remarks
 
-* These four stakeholders are already not representative of the relevant communities; perhaps much less so in 2030.
+* These four stakeholder groups are already not representative of the relevant communities; perhaps much less so in 2030.
 
 * boundaries between these stakeholder groups are increasingly going to blur
 
