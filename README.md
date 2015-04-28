@@ -79,7 +79,7 @@ research institutions above
 infrastructure, communities
 
 
-## publishers
+## Publishers
 
 * have to provide real added value, e.g. helping with navigating the
 flood of research information that is being made public
@@ -89,3 +89,8 @@ than just snapshots of outputs
 
 * favour post-publication peer review instead of pre-publication peer
 review, and public over non-public peer review
+
+## See also
+* What would science look like if it were invented today? (from 2009)
+  * [Part 1](http://ways.org/en/blogs/2009/jun/29/what_would_science_look_like_if_it_were_invented_today)
+  * [Part 2](http://ways.org/en/blogs/2009/sep/29/what_would_science_look_like_if_it_were_invented_today_part_ii_knowledge_structuring)
