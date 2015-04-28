@@ -18,6 +18,8 @@ A collection of thoughts on how science communication might (or should) look lik
 
 * We need to think more in terms of workflows, less in terms of individual snapshots thereof, and (re)build institutions, policies, funding mechanisms, careers, training and publishing etc. around that.
 
+* Version control is built in to virtually all aspects of research, and version histories are being exposed by default
+
 * The current cacophony of communication channels must be complemented by more standardized mechanisms for being notified of changes in a given field.
 
 * find the right balance in terms of acknowledging the contributions of
