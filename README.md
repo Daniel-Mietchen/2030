@@ -147,7 +147,7 @@ review, and public over non-public peer review
   * the public at large (crowdfunding)
   * corporate social responsibility
 
-*every open proposal is a call for funders and collaborators
+* every open proposal is a call for funders and collaborators
 
 * foster experimentation, e.g. with public peer review or random elements
 
