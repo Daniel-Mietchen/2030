@@ -102,3 +102,66 @@ than just snapshots of outputs
 * favour post-publication peer review instead of pre-publication peer
 review, and public over non-public peer review
 
+# Notes from the meeting
+
+* scenarios
+  * someone else did it while i was asleep
+  * kid sends me inquiry about my work
+* teaching science by doing it in the open
+
+* "don’t want to see the raw data before official publication"
+  * does not work if there is a deadline
+		  * disaster response
+		  * cancer et al
+
+* "information overflow"
+  * let machines do some pre-filtering	
+  * go for machine readability, e.g. of data management plans, to enable sharing/ subscriptions/ alerts for specific publishing events
+
+* Researchers spend much of their time writing and reviewing grant proposals and/ or papers, which takes away time from actually doing research. Many of these proposals and papers end up being rejected, so the time spent on them is somewhat wasted. Let's reduce this amount of waste.
+
+* revision scoring
+
+* platforms
+
+* federated approach, e.g. federated wiki, Diaspora
+
+* comparison with sports
+  * performing research in a stadium, e.g. Otto von Guericke's [Magdeburg hemispheres](https://en.wikipedia.org/wiki/Magdeburg_hemispheres)
+  * some 2009/2010 blog posts on funding:
+    * [How would you fund science?](http://ways.org/en/blogs/2010/mar/15/how_would_you_fund_science) 
+    * [Implementing Fantasy Science Funding](http://ways.org/en/blogs/2009/may/24/implementing_fantasy_science_funding)
+    * [Fair play in academia - a test of the efficiency of non-public peer review](http://ways.org/en/blogs/2010/mar/15/fair_play_in_academia_a_test_of_the_efficiency_of_nonpublic_peer_review)
+
+* open science as a tool for education
+
+* baseline funding
+
+* "call for ideas, call for solutions”
+  * more emphasis on prizes, challenges
+
+
+* diversification of the funders community:
+  * classical funders
+  * researchers have part of their budget that they can spend on research performed _by others_
+  * the public at large (crowdfunding)
+  * corporate social responsibility
+
+*every open proposal is a call for funders and collaborators
+
+* foster experimentation, e.g. with public peer review or random elements
+
+* consider societal impact of past and proposed research
+
+
+* publishers need to publish workflows
+
+* overlay journals, add value by filtering published information
+
+* publish in a way that allows to aggregate knowledge by topic rather than brand
+
+* peer review does not have to take place before publication, but is essential and can be very useful thereafter
+
+* internet of things; DOI for everything
+
+
