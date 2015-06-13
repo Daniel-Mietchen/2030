@@ -31,7 +31,7 @@ individuals, institutions
 
 * Research needs to be much more aligned with societal needs, and make society aware of that.
 
-* Policies and procedures are needed to foster Open Science were missing in the picture of “Barriers and incentives to foster Open Science/ Research infrastructures to develop and sustain Open Science/ Socio-economic drivers to support Open Science”. Policies come top down and bottom up. Top down are harder to get buy-in but potentially
+* Policies and procedures that are needed to foster Open Science were missing in the picture of “Barriers and incentives to foster Open Science/ Research infrastructures to develop and sustain Open Science/ Socio-economic drivers to support Open Science”. Policies come top down and bottom up. Top down are harder to get buy-in but potentially
 more profound in the long-term e.g. [M1313](https://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf) and the [Holdren memo](https://www.whitehouse.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf) in the US. Bottom up are driven by the community and as such usually are supported by the community although sustaining them can be an issue.
 
 * Policies have to be more closely linked to the technical aspects of their implementation. Example: when issuing data sharing mandates, make their essential components and those of data management plans machine readable, such that (a) compliance can be monitored, (b) community can be notified when new plans or datasets are being
